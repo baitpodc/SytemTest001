@@ -21,5 +21,14 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+    
+    <!-- https://mvnrepository.com/artifact/com.github.2gis.winium/winium-elements-desktop -->
+<dependency>
+    <groupId>com.github.2gis.winium</groupId>
+    <artifactId>winium-elements-desktop</artifactId>
+    <version>0.2.0-1</version>
+</dependency>
+    
+    
   </dependencies>
 </project>
